@@ -419,3 +419,17 @@ $lang['Related albums'] = 'Verwandte Alben';
 $lang['Album name, 1 &rarr; 5 &rarr; 10 &rarr; 100'] = 'Albumname, 1 &rarr; 5 &rarr; 10 &rarr; 100';
 $lang['Album name, 100 &rarr; 10 &rarr; 5 &rarr; 1'] = 'Albumname, 100 &rarr; 10 &rarr; 5 &rarr; 1';
 $lang['Start-Date'] = 'Datum des Beginns';
+
+// + 2023 filter
+$lang['Choose filters'] = 'Filter wählen';
+$lang['Empty filters'] = 'Filter löschen';
+$lang['Clear'] = 'Löschen';
+$lang['Added by'] = 'Hinzugefügt von';
+$lang['File type'] = 'Dateiart';
+$lang['Search in :'] = 'Suche in:';
+$lang['Search in sub-albums'] = 'Suche in Unteralben';
+$lang['Fill in the filters to start a search'] = 'Filter auswählen um Suche starten zu können';
+$lang['Pre-established filters are proposed, but you can add or remove them using the "Choose filters" button.'] = 'Vorausgefüllte Filter sind ein Vorschlag, durch anklicken des Buttons "Filter wählen" kann jederzeit eine individuelle Suche durchgeführt werden.';
+$lang['Album title'] = 'Albumname';
+$lang['Album description'] = 'Albumbeschreibungstext';
+$lang['Search in this set'] = 'Gefunden mit diesem Suchbegriff';
